@@ -25,7 +25,7 @@ This is where a Retrieval-Augmented Generation (RAG)- based chat system comes in
 ---
 📊 **System Architecture**
   
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e642c630-1379-48a9-ae2b-7a37a19e0dab" />
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/e642c630-1379-48a9-ae2b-7a37a19e0dab" />
 
 
 
